@@ -1,8 +1,8 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanici.Master.cs" Inherits="Yemek_Tarifleri_Sitem.Site1" %>
 
 <!DOCTYPE html>
-
-<html>
+<%--//asaasa--%>
+<html> 
 <head runat="server">
     <title></title>
     <link href="Kullanici.css" rel="stylesheet" />
@@ -15,6 +15,7 @@
             width: 700px;
             height: 25px;
         }
+        
         .auto-style2 {
             background-color: #eea4a4;
             text-align: center;
